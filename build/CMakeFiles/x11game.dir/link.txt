@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/x11game.dir/main.cpp.o -o x11game  /usr/lib/x86_64-linux-gnu/libX11.so 

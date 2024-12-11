@@ -1,0 +1,3 @@
+/home/jack/Documents/projects/boat_game/build/CMakeFiles/x11game.dir
+/home/jack/Documents/projects/boat_game/build/CMakeFiles/edit_cache.dir
+/home/jack/Documents/projects/boat_game/build/CMakeFiles/rebuild_cache.dir
